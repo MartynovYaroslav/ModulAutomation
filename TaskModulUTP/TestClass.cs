@@ -37,7 +37,7 @@ namespace GuiTest
 
 
         [Test]
-        [Retry(4)]
+        [Retry(3)]
         public void AuthorisationByUser()
         {
             //string fileName = Environment.CurrentDirectory.ToString() + "\\Data\\Login.xlsx";
