@@ -63,6 +63,7 @@
     <Compile Include="TestClass.cs" />
     <Compile Include="Pages\SignInGmail.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestInitialaize.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Data\Login.xlsx">

@@ -22,3 +22,4 @@ D:\1\ModulAutomation\TaskModulUTP\bin\Debug\Excel.pdb
 D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.csproj.CoreCompileInputs.cache
 D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.dll
 D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.pdb
+D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.csprojResolveAssemblyReference.cache

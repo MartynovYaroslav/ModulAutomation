@@ -9,9 +9,10 @@ using AutomationModulFr.Helpers;
 using NUnit.Framework;
 using System.IO;
 
+
 namespace GuiTest
 {
-    //[TestClass]
+
     [TestFixture]
     public class UnitTest1 
     {
@@ -22,9 +23,6 @@ namespace GuiTest
         string url = "https://www.google.com/intl/ru/gmail/about/";
 
 
-
-
-
         [SetUp]
         public void BeaforTest()
         {
@@ -32,17 +30,18 @@ namespace GuiTest
 
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromMilliseconds(5000));
             driver.Navigate().GoToUrl(url);
+
+            string fileName = Path.Combine("D:\\1\\ModulAutomation\\TaskModulUTP\\Data", "Login.xlsx");
+            ExcelHelpers.PopulateInCollection(fileName);
         }
 
 
 
-        [Test]
+        [TestCase(1)]
         [Retry(3)]
-        public void AuthorisationByUser()
+        //[Retry(Times = 3, RequiredPassCount = 2)]
+        public void AuthorisationByUser(int numm)
         {
-            //string fileName = Environment.CurrentDirectory.ToString() + "\\Data\\Login.xlsx";
-            string fileName = Path.Combine("D:\\1\\ModulAutomation\\TaskModulUTP\\Data", "Login.xlsx");
-            ExcelHelpers.PopulateInCollection(fileName);
 
 
             LandingPage landingPage = new LandingPage(driver);
@@ -52,9 +51,9 @@ namespace GuiTest
 
             landingPage.PressEnterLandingPage();
            
-            signInGmail.LoginTxt(1);
+            signInGmail.LoginTxt(numm);
             
-            signInPassword.PasswordTxt(1);
+            signInPassword.PasswordTxt(numm);
            
         }
 
