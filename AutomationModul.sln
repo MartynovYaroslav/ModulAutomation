@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationModulFr", "AutomationModulFr\AutomationModulFr.csproj", "{7A880EF1-EE76-472B-B8A3-DE3CE1B3AFEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskModulEmployee", "TaskModulUTP\TaskModulEmployee.csproj", "{E9832754-1E13-4DE5-9976-3FF216462497}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiTest", "TaskModulUTP\GuiTest.csproj", "{E9832754-1E13-4DE5-9976-3FF216462497}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,8 +7,8 @@
     <ProjectGuid>{E9832754-1E13-4DE5-9976-3FF216462497}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TaskModulUTP</RootNamespace>
-    <AssemblyName>TaskModulUTP</AssemblyName>
+    <RootNamespace>GuiTest</RootNamespace>
+    <AssemblyName>GuiTest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

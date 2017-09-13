@@ -29,3 +29,16 @@ D:\1\AutomationModulFr\bin\Debug\WebDriver.Support.xml
 D:\1\AutomationModulFr\obj\Debug\AutomationModulFr.csproj.CoreCompileInputs.cache
 D:\1\AutomationModulFr\obj\Debug\AutomationModulFr.dll
 D:\1\AutomationModulFr\obj\Debug\AutomationModulFr.pdb
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\AutomationModulFr.dll
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\AutomationModulFr.pdb
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\Excel.dll
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\WebDriver.dll
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\WebDriver.Support.dll
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\Excel.pdb
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\WebDriver.xml
+D:\1\ModulAutomation\AutomationModulFr\bin\Debug\WebDriver.Support.xml
+D:\1\ModulAutomation\AutomationModulFr\obj\Debug\AutomationModulFr.csprojResolveAssemblyReference.cache
+D:\1\ModulAutomation\AutomationModulFr\obj\Debug\AutomationModulFr.csproj.CoreCompileInputs.cache
+D:\1\ModulAutomation\AutomationModulFr\obj\Debug\AutomationModulFr.dll
+D:\1\ModulAutomation\AutomationModulFr\obj\Debug\AutomationModulFr.pdb
