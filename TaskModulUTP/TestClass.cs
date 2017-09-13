@@ -6,40 +6,59 @@ using System.Threading;
 using TaskModulUTP.Pages;
 using EAAutoFramework.Helpers;
 using AutomationModulFr.Helpers;
-using NUnit.Framework;
-using AutomationModulFr.SettingsNunit;
+
 
 namespace TaskModulUTP
 {
-    [TestFixture]
-    public class UnitTest1 //: BaseSettingsNunit
+    [TestClass]
+    public class UnitTest1 
     {
-  
-        [Test]
-        public void Hurma()
+
+
+        IWebDriver driver = new ChromeDriver();
+     
+        string url = "https://www.google.com/intl/ru/gmail/about/";
+
+
+
+
+
+        [TestInitialize]
+        public void BeaforTest()
         {
 
+            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromMilliseconds(5000));
+            driver.Navigate().GoToUrl(url);
         }
 
-        //[TestCase(1)]
-        //public void AuthorisationByUser(int row)
-        //{
-        //    LandingPage landingPage = new LandingPage(driver);
-        //    SignInGmail signInGmail = new SignInGmail(driver);
-        //    SignInPassword signInPassword = new SignInPassword(driver);
+
+
+        [TestMethod]
+        public void AuthorisationByUser()
+        {
+            LandingPage landingPage = new LandingPage(driver);
+            SignInGmail signInGmail = new SignInGmail(driver);
+            SignInPassword signInPassword = new SignInPassword(driver);
 
             
 
-        //    string fileName = Environment.CurrentDirectory.ToString() + "\\Data\\Login.xlsx";
-        //    ExcelHelpers.PopulateInCollection(fileName);
+            string fileName = Environment.CurrentDirectory.ToString() + "\\Data\\Login.xlsx";
+            ExcelHelpers.PopulateInCollection(fileName);
+            Thread.Sleep(3000);
 
 
-        //    landingPage.PressEnterLandingPage();
+            landingPage.PressEnterLandingPage();
+            Thread.Sleep(3000);
+            signInGmail.LoginTxt(1);
+            Thread.Sleep(3000);
+            signInPassword.PasswordTxt(1);
+            Thread.Sleep(3000);
+        }
 
-        //    signInGmail.LoginTxt(row);
-
-        //    signInPassword.PasswordTxt(row);
-
-        //}
+        [TestCleanup]
+        public void AfterTest()
+        {
+            driver.Quit();
+        }
     }
 }
