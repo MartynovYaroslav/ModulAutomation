@@ -23,3 +23,52 @@ D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.csproj.CoreCompileInputs.cac
 D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.dll
 D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.pdb
 D:\1\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.csprojResolveAssemblyReference.cache
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Data\Login.xlsx
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\GuiTest.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\GuiTest.pdb
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\AutomationModulFr.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\nunit.framework.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\WebDriver.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\WebDriver.Support.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Excel.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\AutomationModulFr.pdb
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\nunit.framework.xml
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\WebDriver.xml
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\WebDriver.Support.xml
+D:\yarik\ModulAutomation\TaskModulUTP\bin\Debug\Excel.pdb
+D:\yarik\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.csprojResolveAssemblyReference.cache
+D:\yarik\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.dll
+D:\yarik\ModulAutomation\TaskModulUTP\obj\Debug\GuiTest.pdb
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Data\Login.xlsx
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\GuiTest.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\GuiTest.pdb
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\AutomationModulFr.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\nunit.framework.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\WebDriver.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\WebDriver.Support.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Excel.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\AutomationModulFr.pdb
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\nunit.framework.xml
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\WebDriver.xml
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\WebDriver.Support.xml
+D:\automation\epam project\Stability\TaskModulUTP\bin\Debug\Excel.pdb
+D:\automation\epam project\Stability\TaskModulUTP\obj\Debug\GuiTest.csprojResolveAssemblyReference.cache
+D:\automation\epam project\Stability\TaskModulUTP\obj\Debug\GuiTest.csproj.CoreCompileInputs.cache
+D:\automation\epam project\Stability\TaskModulUTP\obj\Debug\GuiTest.dll
+D:\automation\epam project\Stability\TaskModulUTP\obj\Debug\GuiTest.pdb
